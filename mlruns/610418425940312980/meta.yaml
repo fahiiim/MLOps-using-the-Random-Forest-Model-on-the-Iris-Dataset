@@ -1,0 +1,6 @@
+artifact_location: file:C:/Users/bdcalling123/Desktop/MLOps/mlruns/610418425940312980
+creation_time: 1760809502959
+experiment_id: '610418425940312980'
+last_update_time: 1760809502959
+lifecycle_stage: active
+name: iris_random_forest
