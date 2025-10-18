@@ -66,6 +66,9 @@ Then open http://localhost:5000 in your browser.
 Detailed performance metrics for each class (setosa, versicolor, virginica) are logged in MLflow.
 
 ## MLflow Tracking
+### MLflow Interface
+<img width="1917" height="899" alt="image" src="https://github.com/user-attachments/assets/93bbd3d8-66cc-47fe-884d-4d401610f81d" />
+
 
 The project uses MLflow to track:
 - Model parameters
